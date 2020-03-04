@@ -1,0 +1,14 @@
+#   Übersetzt von Grabenkind
+#   Bei Rechtschreibfehlern bitte kontaktieren
+#   Kontakt: grabenkind@gmail.com
+#   
+#   Dieses Plugin wird von hackerG7 entwickelt!
+#   Alle Fehler die keine Rechtschreibfehler sind,
+#   müssen dem Entwickler selbst berichtet werden.
+
+
+#Hier kannst die Nachricht eingeben, die du anzeigen möchtest, wenn du jemanden einfrierst.
+messageWhenYouFreezeSomeone: '&2%player% &awurde eingefroren.'
+messageWhenYouUnfreezeSomeone: '&2%player% &aist nicht mehr eingefroren.'
+#Benutze %player% um den Namen des Spielers anzuzeigen
+#Verwende "&" Farbcodes, um die Nachricht einzufärben, hier findest du weiter Infos: https://minecraft-de.gamepedia.com/Formatierungscodes

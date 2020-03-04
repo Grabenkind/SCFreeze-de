@@ -1,0 +1,17 @@
+#   Übersetzt von Grabenkind
+#   Bei Rechtschreibfehlern bitte kontaktieren
+#   Kontakt: grabenkind@gmail.com
+#   
+#   Dieses Plugin wird von hackerG7 entwickelt!
+#   Alle Fehler die keine Rechtschreibfehler sind,
+#   müssen dem Entwickler selbst berichtet werden.
+
+
+name: SCFreeze
+version: 1.0
+main: me.slothcodes.scfreeze.SCFreeze
+authors: [SlothCodes]
+description: Ein Freeze Plugin.
+commands:
+  freeze:
+    description: Friert einen Spieler ein!
